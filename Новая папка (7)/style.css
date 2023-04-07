@@ -1,0 +1,297 @@
+body{
+    width: 100%;
+}
+.container{
+    background-color: #fafafa;
+    position: absolute;
+    width: 1170px;
+    height: 604px;
+    left: 135px;
+    right: 135px;
+    top: 80px;
+}
+
+.container .qq{
+    position: absolute;
+    left: 135px;
+    font-size: 138px;
+}
+
+.container .qw{
+    position: absolute;
+    top: 280px;
+    left: 135px;
+}
+
+.container .rt{
+    position: absolute;
+    top: 280px;
+    left: 1150px;
+}
+
+.container .we{
+    position: absolute;
+    top: 153px;
+    left: 1150px;
+    font-size: 18px;
+}
+
+.container2{
+    background-color: #fafafa;
+    position: absolute;
+    width: 1170px;
+    height: 604px;
+    left: 135px;
+    right: 135px;
+    top: 960px;
+}
+
+.container2 .qq{
+    position: absolute;
+    left: 135px;
+    font-size: 100px;
+}
+
+.container2 .qw{
+    position: absolute;
+    top: 280px;
+    left: 135px;
+}
+
+.container2 .rt{
+    position: absolute;
+    top: 280px;
+    left: 605px;
+}
+
+.container2 .we{
+    position: absolute;
+    top: 153px;
+    left: 1075px;
+    font-size: 18px;
+}
+
+.container2 .rr{
+    position: absolute;
+    top: 280px;
+    left: 1075px;
+    font-size: 18px;
+}
+
+.container2 .we{
+    position: absolute;
+    top: 700px;
+    left: 135px;
+    font-size: 18px;
+}
+
+.container2 .sa{
+    position: absolute;
+    top: 700px;
+    left: 645px;
+    font-size: 18px;
+}
+
+.container2 .xc{
+    position: absolute;
+    top: 700px;
+    left: 1090px;
+    font-size: 18px;
+}
+
+.container3{
+    background-color: #fafafa;
+    position: absolute;
+    width: 1170px;
+    height: 604px;
+    left: 205px;
+    right: 135px;
+    top: 1796px;
+}
+
+.container4 .qq{
+    font-size: 100px;
+}
+
+.container3 .fgh{
+    position: absolute;
+    top: 40px;
+    
+}
+
+.container3 .fgh{
+    position: absolute;
+    left: 460px;
+    color: white;
+    font-size: 50px;
+}
+
+.container3 .fghh{
+    position: absolute;
+    left: 420px;
+    top: 125px;
+    color: white;
+    font-size: 25px;
+}
+
+.container3 .fghhg{
+    position: absolute;
+    left: 445px;
+    top: 155px;
+    color: white;
+    font-size: 25px;
+}
+
+.container4 button{
+    position: absolute;
+    left: 570px;
+    top: 245px;
+    color: black;
+    font-size: 25px;
+    padding: 20px 35px;
+}
+
+.container5{
+    background-color: #fafafa;
+    position: absolute;
+    width: 1270px;
+    height: 604px;
+    left: 205px;
+    right: 135px;
+    top: 2580px;
+}
+
+.container5 .qq{
+    position: absolute;
+    left: 135px;
+    font-size: 50px;
+}
+
+.container5 .qqq{
+    position: absolute;
+    left: 790px;
+    top: 100px;
+    font-size: 50px;
+}
+
+.container5 .qw{
+    position: absolute;
+    left: 135px;
+    top: 220px;
+    font-size: 50px;
+}
+
+.container5 .rt{
+    position: absolute;
+    left: 550px;
+    top: 220px;
+    font-size: 50px;
+}
+
+.container5 .rr{
+    position: absolute;
+    left: 550px;
+    top: 475px;
+    font-size: 50px;
+}
+
+.container5 .df{
+    position: absolute;
+    left: 550px;
+    top: 380px;
+    font-size: 25px;
+}
+
+.container5 .d{
+    position: absolute;
+    left: 550px;
+    top: 620px;
+    font-size: 25px;
+}
+
+.container5 .re{
+    position: absolute;
+    left: 900px;
+    top: 220px;
+    font-size: 25px;
+}
+
+.container5 .ff{
+    position: absolute;
+    left: 135px;
+    top: 620px;
+    font-size: 25px;
+}
+
+.container5 .fh{
+    position: absolute;
+    left: 910px;
+    top: 620px;
+    font-size: 25px;
+}
+
+.container6{
+    background-color: #fafafa;
+    position: absolute;
+    width: 1270px;
+    height: 604px;
+    left: 340px;
+    right: 135px;
+    top: 3350px;
+}
+
+.container6 .cv{
+    position: absolute;
+    top: -70px;
+    left: 570px;
+    font-size: 50px;
+}
+
+.container6 .cvm{
+    position: absolute;
+    top: 20px;
+    left: 570px;
+    font-size: 25px;
+}
+
+.container6 .cvn{
+    position: absolute;
+    top: 50px;
+    left: 570px;
+    font-size: 25px;
+}
+
+.container6 #selectID{
+    position: absolute;
+    width: 520px;
+    height: 50px;
+    top: 120px;
+    left: 570px;
+    font-size: 25px;
+}
+
+.container6 .qwerty{
+    position: absolute;
+    width: 325px;
+    height: 50px;
+    top: 240px;
+    left: 760px;
+    font-size: 25px;
+}
+
+.container6 .hhh{
+    position: absolute;
+    top: 200px;
+    left: 575px;
+    font-size: 40px;
+}
+
+.container6 button{
+    position: absolute;
+    width: 525px;
+    top: 360px;
+    left: 575px;
+    font-size: 40px;
+    color: #fafafa;
+    background-color: black;
+}
